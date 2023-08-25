@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/crimeiscool/Anime-idle/blob/main/animeidle.lua"))()
 local Window = Library.CreateLib("Anime Idle Simulator Script - Sakai#7392", "GrapeTheme")
 
 local Tab = Window:NewTab("AutoFarm")
