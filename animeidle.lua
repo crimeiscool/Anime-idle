@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/crimeiscool/Anime-idle/blob/main/animeidle.lua"))()
-local Window = Library.CreateLib("Anime Idle Simulator Script - Sakai#7392", "GrapeTheme")
+local Window = Library.CreateLib("Anime Idle Simulator Script - crime_187 ", "GrapeTheme")
 
 local Tab = Window:NewTab("AutoFarm")
 local Tab2 = Window:NewTab("Upgrade / Skill")
